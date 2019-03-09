@@ -1,0 +1,3 @@
+#ten to jakieś podrabieniec wogóle podstępny jest lol...
+print("Hello world!")
+
